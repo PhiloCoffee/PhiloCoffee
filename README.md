@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%" />
+  <img src="https://philocoffee.github.io/image/poster_v3.png" width="50%" />
 
 # PhiloCoffee哲咖社☕️
 
@@ -8,7 +8,7 @@
 我们讨论哲学、文学、技术、AI、咖啡与日常生活。  
 We gather around questions, coffee, and conversations.
 
-[🌐 Website](https://philocoffee.github.io) · [📮 Email](mailto:philocoffee@gmail.com) · [💬 WeChat Channel](#wechat-channel)
+[🌐 Website](https://philocoffee.github.io) · [📮 Email](mailto:everloom_agi@outlook.com) · [💬 WeChat Group](#wechat-channel)
 </div>
 
 ---
