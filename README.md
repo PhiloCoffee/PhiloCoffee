@@ -1,32 +1,90 @@
-# PhiloCoffee 哲咖 社团
-欢迎来到PhiloCoffee（哲咖），在这里，我们探索咖啡与哲学的交汇点！
-## 关于我们
-PhiloCoffee（哲咖）社团是一家坐落于浙江大学海宁国际校区的学生社团。我们相信，在一杯美味的咖啡中，我们能够找到哲学的启示，并通过这种共享的体验，加深我们对生活和现实的理解。
+<div align="center">
+  <img src="assets/banner.png" width="100%" />
 
-PhiloCoffee将提供一个开放、包容且互动的平台，促进国际校区内外的文化交流和学术探讨。我们的宗旨是倡导'生活中应有哲学'的观念，通过咖啡这一日常生活元素，带领社团成员深入理解并实践哲学，将其真谛应用到日常生活中。
+# PhiloCoffee哲咖社☕️
 
-我们相信，从康德，伏尔泰和马克思等哲学大师的饮品选择中，我们可以洞察其对知识的追求；而对于校园里的国际友人，咖啡则是他们从小长大的日常习惯，更是一种文化的链接。我们鼓励社团成员参与到各种活动中，如哲学沙龙、咖啡品鉴与制作等，通过这些活动提高他们的实践技能，同时让他们在思考和交流中感受到中西哲学的碰撞与融合。
+**A philosophy & coffee club within ZJU International Campus**
 
-手冲咖啡的冲泡过程与茶的泡制有许多相似之处，这为我们提供了一个独特的视角，将中国的茶文化和西方的咖啡文化融合，通过这种融合展现中西哲学的交融。
+我们讨论哲学、文学、技术、AI、咖啡与日常生活。  
+We gather around questions, coffee, and conversations.
 
-我们与浙大紫金港校区的浙江大学学生咖啡社（ZJU Coffee Club）和UIUC大学的Philosophy Club（哲学社）保持紧密合作，一起探讨咖啡文化的传递，互相学习，共同进步。我们期待每一个加入PhiloCoffee的成员，能共同创造一个充满活力，包容并充满智慧的社团。
+[🌐 Website](https://philocoffee.github.io) · [📮 Email](mailto:philocoffee@gmail.com) · [💬 WeChat Channel](#wechat-channel)
+</div>
 
-**关键字：咖啡，哲学，社团，中西融合，国际交流，学术入门，文化沙龙**
+---
 
-## 我们的活动
-我们的活动包括但不限于：
-- 哲学咖啡沙龙：这是我们的主打活动，我们会在此探讨各种哲学问题，并品尝与讨论主题相关的咖啡。例如，我们可能会探讨萨特的存在主义，同时品尝浓郁、苦涩的意式咖啡。
-- 咖啡制作和品鉴：我们会邀请咖啡师来教大家如何制作各种咖啡，并进行咖啡品鉴。
-- 与校园内的多家咖啡厅合作：我们希望与校内的咖啡厅合作，一起开展各种活动，推广咖啡文化。
+## ☕ About Us
 
-## 我们的导师
-我们很荣幸的宣布，曾绍恺教授, 一位在哲学领域有深厚造诣的学者，已经答应成为我们社团的指导老师。
+PhiloCoffee 是一个来自浙大海南国际校区的跨学科兴趣社群。  
+我们希望创造一个轻松但认真的空间，让大家可以围绕哲学、艺术、技术、社会议题与自我经验展开讨论。
 
-## 加入我们
-我们欢迎所有对咖啡和哲学感兴趣的学生加入我们的社团，无论你的专业是什么，无论你对咖啡和哲学的了解有多少，只要你对学习和分享感兴趣，你就是我们要找的人！
+我们相信：
 
-如果你想加入我们，或者有任何问题，欢迎通过电子邮件（philocoffeeclub@gmail.com）或通过GitHub issue联系我们。
+> Good questions deserve slow conversations.
 
-## 资源
-在这个GitHub组织中，我们会分享有关我们社团活动的所有相关资源，包括活动计划，活动摘要，以及我们在活动中讨论的哲学主题和咖啡品种的详细信息。
+---
 
+## 🧭 What We Do
+
+- **Philosophy Salon**：围绕经典文本、当代议题进行讨论
+- **Coffee Chat**：轻量、开放、适合新朋友加入的交流
+- **Reading Notes**：整理社团读书笔记与讨论记录
+- **Creative Projects**：地图、AI、塔罗、咖啡机等社团项目
+- **Public Archive**：保存我们的活动材料、文章与项目
+
+---
+
+## 🗂 Featured Projects
+
+| Project | Description |
+|---|---|
+| [PhiloCoffee.github.io](https://github.com/PhiloCoffee/PhiloCoffee.github.io) | Club website prototype |
+| [PhiloCoffeeMap](https://github.com/PhiloCoffee/PhiloCoffeeMap) | Coffee collection map app |
+| [Philo_Chat](https://github.com/PhiloCoffee/Philo_Chat) | 社团活动、投稿与文笔记录 |
+| [Tech_AI](https://github.com/PhiloCoffee/Tech_AI) | AI 与科技讨论 |
+| [Magic_Tarrow](https://github.com/PhiloCoffee/Magic_Tarrow) | 社团趣味项目 |
+
+---
+
+## 📸 Moments
+
+A few snapshots from our salons, sharing sessions, and cultural events.
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://philocoffee.github.io/tech/2024/0505_PhiloTech_AGI/AGI.assets/Sharing.jpg" width="100%" />
+      <br />
+      <sub><b>PhiloTech: AGI Sharing</b></sub>
+      <br />
+      <sub>Technology, AI, and future imagination</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://philocoffee.github.io/philosophy/2024/0316_MediaStorm/feedback.assets/image-20240319090559166.png" width="100%" />
+      <br />
+      <sub><b>Media Storm Discussion</b></sub>
+      <br />
+      <sub>Philosophy, media, and public discourse</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://philocoffee.github.io/philosophy/2024/1014_Italy_culture/1014_Italy_culture/IMG_2124.jpg" width="100%" />
+      <br />
+      <sub><b>Italian Culture Salon</b></sub>
+      <br />
+      <sub>Culture, travel, food, and shared experience</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>Questions, coffee, and conversations — from ZJU to the wider world.</i>
+</p>
+
+---
+
+## 🤝 Join Us
+
+欢迎对哲学、咖啡、艺术、AI、写作、网站开发感兴趣的朋友加入。
+
+📮 Contact: everloom_agi@outlook.com
+🌐 Website: https://philocoffee.github.io
